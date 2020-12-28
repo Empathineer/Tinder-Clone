@@ -1,0 +1,18 @@
+MERN Stack 
+
+Front-end 
+-Firebase 
+-
+
+Back-end: 
+-MongoDB
+-Express
+-Mongoose 
+-Hiroku 
+
+
+Create Node.js app // Create Express server <--> MongoDB grabs all the data currently hardcoded --> pulls it back to be render on our front end
+
+Mongodb database 
+username:admin
+password: qI46BENzOVPZpgNj
